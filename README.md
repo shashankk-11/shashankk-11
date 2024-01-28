@@ -3,7 +3,7 @@
 Let's connect and explore the world of DevOps together! 🚀
 
 # 💫 About Me:
-🔭 Currently Working On<br><br>Automating infrastructure with Terraform and optimizing CI/CD pipelines using Docker and Jenkins.<br><br>🧠 Currently Learning<br><br>Advanced Kubernetes techniques for efficient container orchestration.<br><br>⚡️Fun fact<br><br>Photography Enthusiast - Capturing moments in pixels.
+🔭 Currently working : Automating infrastructure with Terraform and optimizing CI/CD pipelines using Docker and Jenkins.<br><br>🧠 Currently Learning : Advanced Kubernetes techniques for efficient container orchestration.<br><br>⚡️Fun fact : Photography Enthusiast - Capturing moments in pixels.
 
 
 ## 🌐 Socials:
